@@ -17,5 +17,5 @@ no-log-ix-name = []
 idl-build = ["anchor-lang/idl-build"]
 
 [dependencies]
-anchor-lang = "0.31.0"
+anchor-lang = "0.31.1"
 pyth-solana-receiver-sdk = { git = "https://github.com/pyth-network/pyth-crosschain", branch = "tb/solana-receiver-sdk/solana-program-2" }
