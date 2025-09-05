@@ -1,7 +1,6 @@
 [toolchain]
-channel = "nightly"
 solana_version = "2.2.20"
-anchor-lang = "0.31.1"
+anchor_version = "0.31.1"
 
 [features]
 resolution = true
