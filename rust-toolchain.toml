@@ -1,2 +1,2 @@
 [toolchain]
-channel = "1.79.0"
+channel = "nightly-2024-06-20-aarch64-apple-darwin"

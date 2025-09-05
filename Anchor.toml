@@ -1,4 +1,6 @@
 [toolchain]
+channel = "nightly-2024-06-20-aarch64-apple-darwin"
+solana_version = "2.1.0"
 
 [features]
 resolution = true
