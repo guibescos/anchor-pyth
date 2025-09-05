@@ -1,6 +1,7 @@
 [toolchain]
-channel = "nightly-2024-06-20-aarch64-apple-darwin"
 solana_version = "2.1.0"
+anchor-lang = "0.31.1"
+package_manager = "yarn"
 
 [features]
 resolution = true
