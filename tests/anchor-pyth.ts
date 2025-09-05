@@ -10,7 +10,5 @@ describe("anchor-pyth", () => {
 
   it("Is initialized!", async () => {
     // Add your test here.
-    const tx = await program.methods.readPrice().rpc();
-    console.log("Your transaction signature", tx);
   });
 });
