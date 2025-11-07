@@ -18,4 +18,4 @@ idl-build = ["anchor-lang/idl-build"]
 
 [dependencies]
 anchor-lang = "0.32.1"
-pyth-solana-receiver-sdk = { git = "https://github.com/pyth-network/pyth-crosschain", branch = "anchor-0.32.1-sdk" }
+pyth-solana-receiver-sdk = "1.1.0"
